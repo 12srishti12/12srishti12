@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12srishti12&label=Profile%20views&color=0e75b6&style=flat" alt="12srishti12" /> </p>
 
-- 🌱 I’m currently learning **C++,java and React**
+- 🌱 I’m currently learning **C++,javascript and React**
 
 - 📫 How to reach me **srishtiparthsarthi@gmail.com**
 
